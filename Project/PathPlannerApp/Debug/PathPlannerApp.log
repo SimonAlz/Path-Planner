@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PathPlannerLab.cpp
+  LINK : C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathPlannerApp.exe not found or not built by the last incremental link; performing full link
+PathPlannerLab.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PathPlannerApp.vcxproj -> C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathPlannerApp.exe

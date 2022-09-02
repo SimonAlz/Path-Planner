@@ -1,0 +1,9 @@
+﻿  PathSearch.cpp
+C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\PathSearch\PathSearch.cpp(18,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\PathSearch\PathSearch.cpp(20,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\PathSearch\PathSearch.cpp(31,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\PathSearch\PathSearch.cpp(33,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\PathSearch\PathSearch.cpp(91,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathSearch.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathSearch.lib and object C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathSearch.exp
+  PathSearch.vcxproj -> C:\Users\simon\OneDrive\Desktop\Path Planner\Path-Planner\Project\Debug\PathSearch.dll
